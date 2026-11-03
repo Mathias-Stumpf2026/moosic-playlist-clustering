@@ -1,0 +1,15 @@
+# Nie veröffentlichen (VL-QM-001 Regel 7): Archive, Markdown-Quellen, Protokolle, Rohdaten ohne geklärte Lizenz
+_archiv/
+_md/
+Protokolle/
+Daten/
+*.csv
+*.key
+.DS_Store
+.ipynb_checkpoints/
+# Platzhalter bis zum Projektabschluss nicht veröffentlichen
+Projektmanagement/Brainstorming_*
+Projektmanagement/Projektplan_*
+# Analyse-Notebooks bleiben intern (GF 03.11.2026)
+Notebook/
+*.ipynb
